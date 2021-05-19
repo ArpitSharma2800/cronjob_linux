@@ -1,1 +1,1 @@
-touch /home/arpitsharma/Documents/cronjob/test.txt
+mysql --user=[username] --password=[password] --database=[db name] --execute="INSERT INTO cronjob (number) VALUES (20)"
